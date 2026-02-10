@@ -213,7 +213,9 @@ function spawn_enemy()
   type = flr(rnd(3)) -- 0: tie, 1: papers, 2: coffee
  }
  -- walk towards center
- if (e.x == 0) e.dx = e.speed
+ if (e.x == 0) then
+    e.dx = e.speed
+end
  else e.dx = -e.speed
  
  add(enemies, e)
