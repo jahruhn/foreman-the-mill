@@ -215,8 +215,9 @@ function spawn_enemy()
  -- walk towards center
  if (e.x == 0) then
     e.dx = e.speed
+else
+    e.dx = -e.speed
 end
- else e.dx = -e.speed
  
  add(enemies, e)
 end
