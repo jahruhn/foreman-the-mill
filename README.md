@@ -34,9 +34,9 @@ His goal? Save up $500 to retire to a private island with his supermodel Thai wi
 You can play the game in your browser (if hosted) or download the cartridge `foreman.p8` and run it with [Pico-8](https://www.lexaloffle.com/pico-8.php).
 
 ## Credits
-*   **Code & Design**: [Your Name/Handle]
-*   **Music**: [Your Name/Handle]
-*   **Art**: [Your Name/Handle]
+*   **Code & Design**: Jahruhn
+*   **Music**: Jahruhn
+*   **Art**: Jahruhn
 
 ---
 *(Made with Pico-8)*
